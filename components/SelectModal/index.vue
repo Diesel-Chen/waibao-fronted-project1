@@ -19,7 +19,7 @@
           class="scroll-Y"
         >
           <view class="title">
-            让球胜平负
+            胜平负
           </view>
           <view class="cell-content">
             <u-table border-color="#eee">
@@ -61,7 +61,7 @@
             </u-table>
           </view>
           <view class="title">
-            胜平负
+            让球胜平负
           </view>
           <view class="cell-content">
             <u-table border-color="#eee">
